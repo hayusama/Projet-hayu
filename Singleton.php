@@ -1,4 +1,5 @@
 <?php
+//SINGLETON
 class Database
 {
 
